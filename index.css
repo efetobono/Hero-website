@@ -1,0 +1,58 @@
+body{
+	background-color:  #e5f6df;
+	text-align: center;
+}
+
+#title{
+	color: #003366;
+}
+
+.subtitle{
+	color: blue;
+	font-size: 30px;
+}
+
+#enter-hero-input{
+	width: 60%;
+	height: 40px;
+	border-radius: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	margin-bottom: 30px;
+	margin-right: 20px;
+}
+
+#submit-button{
+	background-color: blue;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 10px;
+	height: 40px;
+	width: 100px;
+}
+
+#power-stat-table{
+	width: 60%;
+	font-size: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px solid blue;
+	text-align: center;
+}
+
+th, td{
+	border: 2px solid blue;
+}
+
+#superman-pic{
+	border-radius: 20px;
+	border: 4px solid black;
+	width: 40%;
+	height: 800px;
+}
+
+#title2{
+	color: turquoise;
+	font-size: 40px;
+}
